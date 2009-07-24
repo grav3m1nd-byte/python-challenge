@@ -1,0 +1,2 @@
+regexp to find vertical "sides" with three capitals in a row
+([A-Z](.|\n){80}){2}([A-Z](.|\n){77})[A-Z]{3}[a-z][A-Z]{3}(.|\n){77}[A-Z]((.|\n){80}[A-Z]){2}

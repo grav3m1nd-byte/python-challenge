@@ -1,1 +1,23 @@
+title: now there are pairs
+image name: channel.jpg
+source clue:
+	<html> <!-- <-- zip -->
 
+went to html.zip
+source clue:
+	yes. find the zip.
+there's a zip file at channel.zip
+download it ...it has 910 files.  last one is "readme.txt"
+contents of readme.txt:
+	welcome to my zipped list.
+	
+	hint1: start from 90052
+	hint2: answer is inside the zip
+
+opening 90052 says "Next nothing is 90052"
+following the sequence, the last one says "collect the comments"
+doing that, and concatenating them, we get a string ascii art that says "hockey"
+i go to hockey.html and i see "it's in the air. look at the letters. "
+i look at the letters in hockey and they're written in "oxygen"
+
+oxygen.html

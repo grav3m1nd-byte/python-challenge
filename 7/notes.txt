@@ -1,0 +1,8 @@
+window title: smarty
+picture with a horizontal line composed of various shades of grey
+picture is called "oxygen.png"
+
+had to install PIL library from
+http://www.pythonware.com/library/pil/handbook/image.htm
+to read through the image
+

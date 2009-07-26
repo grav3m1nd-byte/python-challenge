@@ -1,0 +1,21 @@
+window title: working har?
+
+image of a bee on a flower called integrity.jpg
+
+below that is grey text saying "where is the missing link?"
+
+image has a stroke taken out of the bee's wing that looks like a black pencil or paint tool
+image dimensions are 640 by 480
+
+image has a poylygonal image map called "notinsect"
+image map links to ../return/good.html
+
+the link opens an authentication page whose message is "inflate"
+
+source has this in comments
+un: 'BZh91AY&SYA\xaf\x82\r\x00\x00\x01\x01\x80\x02\xc0\x02\x00 \x00!\x9ah3M\x07<]\xc9\x14\xe1BA\x06\xbe\x084'
+pw: 'BZh91AY&SY\x94$|\x0e\x00\x00\x00\x81\x00\x03$ \x00!\x9ah3M\x13<]\xc9\x14\xe1BBP\x91\xf08'
+
+BZh91AY&SYA \xaf\x82\r\x00\x00\x01\x01\x80\x02\xc0\x02\x00   \x00!\x9ah3M \x07<] \xc9\x14\xe1B A \x06\xbe\x084
+BZh91AY&SY  \x94$| \x0e\x00\x00\x00\x81\x00\x03$             \x00!\x9ah3M \x13<] \xc9\x14\xe1B BP\x91\xf08
+

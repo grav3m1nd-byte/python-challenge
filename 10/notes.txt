@@ -1,0 +1,9 @@
+window title: "what are you looking at?"
+
+clue at bottom of page: len(a[30]) = ?
+
+clicking the cow image goes to sequence.txt with content:
+
+a = [1, 11, 21, 1211, 111221, 
+
+finally finished.  the regexp wasn't working because i needed to prefix the pattern string with a "r", so it wouldn't interpret backslashes as an escape character.

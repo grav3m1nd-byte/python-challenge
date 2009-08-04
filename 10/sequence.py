@@ -13,6 +13,8 @@ for i in range(0,30):
         solution += str(len(s))+s[0]
     a += (solution,)
     number = solution
+    if i < 9 :
+        print solution
 
 print(len(a))
 print len(a[30])

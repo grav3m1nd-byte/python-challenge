@@ -1,0 +1,13 @@
+window title: dealing evil
+image name: evil1.jpg
+no clue given
+visiting evil2.jpg gives an image that looks like it says "not jpg - _.gfx"
+visiting evil2.gfx provides a file of unknown type
+the gfx file is actually 5 different files.  first byte goes to first file, etc, up to 5, then it cycles.
+each is an image
+file0: dis
+file1: pro
+file2: port
+file3: (half cut off at vertical halfway - looks like dot of an "i" at start and end of a tall letter)
+file4: ity (crossed out)
+"disproportionality" => "disproportional"

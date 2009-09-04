@@ -1,0 +1,10 @@
+page title: call him
+image: phone
+subtitle: "phone that evil"
+clicking 5 key goes to an xml page with "XML error: Invalid document end at line 1, column 1" as faultString
+using serverproxy.system.listMethods() reveals the method "phone"
+trying sp.system.phone() with a few parameters, all return "He is not the evil"
+the 'phone' method's description is "Returns the phone of a person"
+forgot about the random clue in previous level: "Bert is evil! go back!" in evil4.jpg
+returns "555-ITALY"
+italy is the solution

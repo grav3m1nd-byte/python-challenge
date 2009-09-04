@@ -1,0 +1,15 @@
+title: walk around
+image: italy.jpg - a cinnamon roll donut
+source hint: remember: 100*100 = (100+99+99+98) + (...
+image wire.png
+wire.png is a 10000x1 image scaled to 100x100
+aligning the pixels in a 100x100 image file reveals a mostly scrambled image with the clear red text "bit"
+visiting bit.html gives: "you took the wrong curve."
+hm i think i need to unwinde this wire by travelling around the 100x100 box in a tightening spiral
+
+100 99 99 98
+98 97 97 96
+
+shows a picture of a cat.
+visit cat.html - " and its name is uzi. you'll hear from him later. " - two cats - one mottled and one black
+uzi is the solution

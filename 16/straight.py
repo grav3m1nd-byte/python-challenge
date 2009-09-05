@@ -1,9 +1,11 @@
-from PIL import Image
+from PIL import Image,ImagePalette
 
 im = Image.open('mozart.gif')
 #im = im.convert('RGB')
+
 w,h = im.size
-out = Image.new('RGB',(w,h))
+out = Image.new('P',(w,h))
+
 outpix = out.load()
 
 imd = list(im.getdata())

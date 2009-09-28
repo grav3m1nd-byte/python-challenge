@@ -1,0 +1,14 @@
+page title: eat?
+picture of cookies with inset of picture from #4
+cookies.html: yummy! chocolate chips.
+chocolate.html: do you want to eat or to play?
+play.html: then go back and play.
+amazing... how did i not find this when I checked the cookies before?  there is a cookie called "info" with value "you+should+have+followed+busynothing..."
+going to http://www.pythonchallenge.com/pc/def/linkedlist.php?busynothing=12345 shows the message:
+
+If you came here from level 4 - go back!
+You should follow the obvious chain...
+
+http://www.pythonchallenge.com/pc/def/linkedlist.php?busynothing=
+and the next busynothing is 92512
+last number yields "that's it."

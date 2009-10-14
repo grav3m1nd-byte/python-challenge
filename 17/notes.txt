@@ -12,3 +12,9 @@ You should follow the obvious chain...
 http://www.pythonchallenge.com/pc/def/linkedlist.php?busynothing=
 and the next busynothing is 92512
 last number yields "that's it."
+
+so, first you have to figure out that this sequence of 276 characters is a url encoded string.  and, it's a special one, because urllib2.unquote won't work.  it has to be urllib.unquote_plus.
+
+After that, you get a weird, garbled string.  You're supposed to figure out that you need to decompress that string with bzip2.  How would you even know if you were on the right track for the past 3 steps?
+
+The result of the decompression is: is it the 26th already? call his father and inform him that "the flowers are on their way". he'll understand.

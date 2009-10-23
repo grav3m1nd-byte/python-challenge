@@ -1,0 +1,9 @@
+http://www.pythonchallenge.com/pc/return/balloons.html
+
+image: swans
+title: can you tell the difference?
+source comment: it is more obvious than what you might think
+
+let's try to use PIL to compute the difference of the two images
+
+the difference is just a blurry dark version.  about what you'd expect.  no hidden message.

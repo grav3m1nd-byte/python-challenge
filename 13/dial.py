@@ -9,4 +9,4 @@ sp = ServerProxy(url)
 # print '"Phone" method: ', sp.system.methodSignature('phone')
 # print sp.system.methodHelp('phone')
 
-print sp.phone('55548259')
+print sp.phone('Bert')

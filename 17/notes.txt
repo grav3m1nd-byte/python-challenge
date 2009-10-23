@@ -18,3 +18,20 @@ so, first you have to figure out that this sequence of 276 characters is a url e
 After that, you get a weird, garbled string.  You're supposed to figure out that you need to decompress that string with bzip2.  How would you even know if you were on the right track for the past 3 steps?
 
 The result of the decompression is: is it the 26th already? call his father and inform him that "the flowers are on their way". he'll understand.
+
+26th?  sounds like #15 - Mozart's birthday was the 26th.  Mozart's father was Leopold.
+
+go to #13 and do a phone lookup for "Leopold".  We get "555-VIOLIN".
+
+try "violin.html" and we get "no! i mean yes! but ../stuff/violin.php."
+
+at /pc/stuff/violin.php we get a picture of Leopold with the title text "it's me. what do you want?"
+
+i cheated at the end.  i had no idea how to send cookies "the right way", which may not actually exist.  the solution i found is to just send them as part of the header.
+
+doing that, you get "oh well, don't you dare to forget the balloons."
+
+balloons.html is the next level.
+
+what a stupid level.
+

@@ -2,8 +2,16 @@ http://www.pythonchallenge.com/pc/return/balloons.html
 
 image: swans
 title: can you tell the difference?
-source comment: it is more obvious than what you might think
+source comment: it is more obvious that what you might think
 
 let's try to use PIL to compute the difference of the two images
 
 the difference is just a blurry dark version.  about what you'd expect.  no hidden message.
+
+waste of time - turns out you need to guess and check until you try the url "bright.html" - which gives "ness".  so, it's really "brightness.html"
+
+the page is the same as balloons.html, but the source comment says "maybe consider deltas.gz"
+
+what a waste of time - nothing to do with python.
+
+

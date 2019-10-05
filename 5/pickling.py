@@ -1,3 +1,6 @@
+#!/usr/bin/python3
+
+
 import pickle
 
 f = open('banner.p')
@@ -9,4 +12,4 @@ for line in o:
     for char,n in line:
         outstr += char*n
     outstr += '\n'
-print outstr
+print(outstr)
